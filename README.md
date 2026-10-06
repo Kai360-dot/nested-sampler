@@ -2,7 +2,7 @@
 
 Nested sampling for feasibility analysis: a standalone port of the
 `mc::NSFEAS` sampler of the MAGNUS library 
-https://github.com/omega-icl/magnus
+https://github.com/omega-icl/magnus (for licensing matters consider the license of the magnus repository!)
 (feasibility phase only, no MC++
 DAG machinery). Given a box domain and a function that returns constraint
 values, it returns the live, dead and discarded points.
